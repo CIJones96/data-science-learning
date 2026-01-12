@@ -7,7 +7,7 @@ Course notes and projects from the IBM Data Science Professional course.
 -  Defining Data Science and What Data Scientists Do
 
 ### In Progress 🔄
--  Data Science Topics
+-  Applications and Careers in Data Science
 
 ### Upcoming 📋
-- Applications and Careers in Data Science
+- Data Literacy for Data Science
