@@ -1,0 +1,7 @@
+- Big Data has 5 characteristics: Velocity, Volume, Variety, Veracity, and Value
+- The 5 cloud computing characteristics are: On-Demand, Self-Service, Broad Network Access, Resource Pooling, Rapid Elasticity, and Measured Service
+- Data Mining has a 6 step process: Goal Setting, Selecting Data Sources, Pre-Processing, Transforming, Mining, and Evaluation
+- Deep Learning uses neural networks to teach itself patterns in inputs and outputs.
+- Machine Learning is a subset of AI that uses computer algorithms to learn about data and make predictions without programming the analysis methods into the system.
+- Regression identifies the strenth and amount of the correlation between one or more inputs and an output.
+- Gen AI is a subset of AI which focuses on producing new data rather than just analysing existing data. It allows machines to create content like images, music, computer code etc.
