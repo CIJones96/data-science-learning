@@ -4,7 +4,7 @@ My learning path towards Data Science, Machine Learning, and Quantitative Financ
 ## 📚 Course Progress
 
 ### In Progress
-- **IBM Data Science Professional Certificate** - [Module 2]
+- **IBM Data Science Professional Certificate** - [Module 4]
 
 ### Planned
 - Andrew Ng's Machine Learning Specialisation
