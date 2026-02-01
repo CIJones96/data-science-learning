@@ -1,5 +1,4 @@
 # Course 1: What is Data Science?
----
 
 ## Module 1: What is Data Science?
 
