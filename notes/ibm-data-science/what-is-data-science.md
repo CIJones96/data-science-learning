@@ -68,6 +68,4 @@
 - AI, Gen AI, and Deep Learning built on data science
 - Career focus: Build skills + portfolio
 
-**Date Completed:** February 2, 2025  
-**Time:** ~6 hours  
-**Next:** Course 2 - Tools for Data Science
+---
