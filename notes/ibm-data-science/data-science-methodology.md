@@ -39,4 +39,6 @@
 - Example case study about the best way to allocate the limited healthcare budget to maximise its use in providing quality care
 
 ### Analytic Approach
-- Once the business problem is defined, analytical approach can be selected
+Predictive = NUMBER (regression)
+Classification = CATEGORY (labels)
+Descriptive = PATTERNS (understanding)
