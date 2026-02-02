@@ -9,7 +9,7 @@
 - Start creating own data science methodology stories
 
 ### Data Science Methodology Overview
-** Consists of 10 Stages:**
+**Consists of 10 Stages:**
 - Business understanding
 - Analytical approach
 - Data requirements
@@ -21,7 +21,7 @@
 - Deployment
 - Feedback
 
-**Standard Data Science Methodology Questions*
+**Standard Data Science Methodology Questions**
 - What is the problem you're trying to solve?
 - How can you use data to answer the question?
 - What data do you need to answer the question?
