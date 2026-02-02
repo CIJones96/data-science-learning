@@ -39,6 +39,6 @@
 - Example case study about the best way to allocate the limited healthcare budget to maximise its use in providing quality care
 
 ### Analytic Approach
-Predictive = NUMBER (regression)
-Classification = CATEGORY (labels)
-Descriptive = PATTERNS (understanding)
+- Predictive = NUMBER (regression)
+- Classification = CATEGORY (labels)
+- Descriptive = PATTERNS (understanding)
